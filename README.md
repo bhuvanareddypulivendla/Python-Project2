@@ -8,6 +8,11 @@ Python (Tkinter GUI)** and **SQLite3** backend.
 alerts them if they exceed the predefined monthly budget limit.
 
 ---
+Files:
+1.Main.py
+2.db.py
+3.output.png-picture of output
+4.expenses.db-automatically creates to store data
 
 ## 📌 Features
 
